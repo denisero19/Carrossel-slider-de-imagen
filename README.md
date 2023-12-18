@@ -12,4 +12,4 @@ Um projeto carrossel - slider onde foi utilizado o HTML, CSS e Javascript utiliz
 
 **Você pode acessar o código fonte do projeto 
 
-<>**
+<https://github.com/denisero19/Carrossel-slider-de-imagen>**
